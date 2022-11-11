@@ -1,0 +1,10 @@
+{
+  "pages": {
+    "/": {
+      "viewPath": "Footer/Footer"
+    }
+  },
+  "sharedDocks": {
+    "cornerPriority": "top-bottom"
+  }
+}
