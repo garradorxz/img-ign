@@ -3,7 +3,7 @@
   "params": {},
   "props": {
     "defaultSize": {
-      "height": 84
+      "height": 45
     }
   },
   "root": {
@@ -16,7 +16,7 @@
           "basis": "32px"
         },
         "props": {
-          "text": "Header"
+          "text": "Label"
         },
         "type": "ia.display.label"
       }
